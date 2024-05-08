@@ -18,7 +18,7 @@ This repository contains the .stl files for the prototype of a portable digital 
 
 ## Repository Contents
 - **`stl/`**: Contains all the .stl files required to construct the microscope prototype. These files can be used to 3D print the necessary components.
-- **`assemble/`**: Containts a mp4 video that explains the assembly process.
+- **`assembly_render.mp4`**: Is a video that explains the assembly process.
 - **`LICENSE`**: The license under which this repository is shared.
 
 ## How to Use
