@@ -9,12 +9,15 @@ This repository contains the .stl files for the prototype of a portable digital 
 
 - Yunfeng Nie
   - Brussels Photonics, Department of Applied Physics and Photonics, Vrije Universiteit Brussel and Flanders Make, Pleinlaan 2, B-1050 Brussels, Belgium.
+  - Contact: [yunfeng.nie@vub.be](mailto:yunfeng.nie@vub.be)
 
 - Heidi Ottevaere
   - Brussels Photonics, Department of Applied Physics and Photonics, Vrije Universiteit Brussel and Flanders Make, Pleinlaan 2, B-1050 Brussels, Belgium.
+  - Contact: [heidi.ottevaere@vub.be](mailto:heidi.ottevaere@vub.be)
 
 - Carlos Trujillo
   - Applied Optics Research Group, School of Applied Science and Engineering, Universidad EAFIT, Medellín, Colombia.
+  - Contact: [catrujilla@eafit.edu.co](mailto:catrujilla@eafit.edu.co)
 
 ## Repository Contents
 - **`stl/`**: Contains all the .stl files required to construct the microscope prototype. These files can be used to 3D print the necessary components.
