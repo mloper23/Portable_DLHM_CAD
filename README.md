@@ -1,5 +1,5 @@
 # Portable Digital Lensless Holographic Microscope for Fieldwork Applications
-This repository contains the .stl files for the prototype of a portable digital lensless holographic microscope designed for fieldwork applications. The microscope uses a conventional smartphone sensor and a customized freeform lens to achieve holographic imaging in a compact and portable form factor.
+This repository contains the .stl files for the prototype of a portable digital lensless holographic microscope designed for fieldwork applications. The microscope uses a conventional smartphone sensor and a customized freeform lens to achieve holographic imaging in a compact and portable form factor. The render can also be visualized in the following URL: https://youtu.be/FwDhyk7WkH4
 
 ## Authors
 - **Maria J. Lopera** (Primary Contact) 
